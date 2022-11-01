@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler!
 - 👀 I’m interested in Full-Stack Software Development. I'm also a fitness and computer builder enthusiast.
-- 🌱 I just finished a 18-month Full-Stack Software Development Program and looking to transition to my first software developer role. Check out my personal website to see my previous work and projects. 
+- 🌱 I a BS degree in Engineering and I just finished a 18-month Full-Stack Software Development Program. I am now looking to transition to my first software developer role. Check out my personal website to see my previous work and projects. 
 - 📫 Send me an email if you want to reach me!
 
 <!---
